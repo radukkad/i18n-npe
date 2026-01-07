@@ -1,4 +1,5 @@
-module-name1:
-  screen-name1:
-    comp-name1: "Collapsed"
-    comp-name2: "Expanded"
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+<string name="moduleA__cat1__app__header">Application header</string>
+<string name="moduleA__cat2__app__header">Application header</string>
+</resources>
