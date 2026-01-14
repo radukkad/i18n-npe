@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="utf-8"  standalone="yes"?>
+<resources>
+    <string name="connect_page1_getting_ready">Preparando las cosas</string>
+    <string name="connect_page1_sub_pagea_finishing_up">Finishing up…</string>
+    <string name="connect_page2_in_progress">Action in progress…</string>
+</resources>
