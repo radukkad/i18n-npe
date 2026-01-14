@@ -1,3 +1,6 @@
-connect__page1__getting_ready = "Getting things ready";
-connect__page1__sub_pageA__finishing_up = "Finishing up...";
-connect__page2__in_progress = "Action in progress..";
+<?xml version="1.0" encoding="utf-8"  standalone="yes"?>
+<resources>
+    <string name="connect_page1_getting_ready">Getting things ready</string>
+    <string name="connect_page1_sub_pagea_finishing_up">Finishing up…</string>
+    <string name="connect_page2_in_progress">Action in progress…</string>
+</resources>
